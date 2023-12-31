@@ -15,7 +15,7 @@ Before I discuss each exam and its content, there a few things you need to know 
 - Except for the ITF+ and the Cloud Essentials+, all CompTIA exams include **multiple-choice (MCQ), multiple-select (MSQ), and performance-based questions (PBQs).**
 - All CompTIA exams are **linear** and scored on a **scaled scoring algorithm.**
 
-In short, for the A+, Network+, and Security+, you'll have 90 minutes to answer up to 90 questions that are selected randomly, weighted (valued) differently, but never change throughout the exam. Additionally, depending on the question format, some questions will take longer to answer than others. Performance-based questions, questions that are not multiple-choice (*i.e.*, select 1 answer out of 4 choices) or multiple-select (*i.e.*, select 2-3 answers out of 5-7 choices) take the longest.
+In short, for the A+, Network+, and Security+, you'll have 90 minutes to answer up to 90 questions that are selected randomly, weighted (valued) differently, but never change throughout the exam. Additionally, depending on the question format, some questions will take longer to answer than others. Performance-based questions, questions that are not multiple-choice (*i.e.*, select 1 answer out of 4 choices) or multiple-select (*i.e.*, select 2-3 answers out of 5-7 choices), take the longest.
 
 To conserve time efficiently to ensure that you answer all questions correctly, follow these tips:
 - Skip the performance-based questions (PBQs) that will be given to you at the beginning of the exam.
@@ -35,7 +35,7 @@ Lastly, download the official [exam objectives](https://www.comptia.org/training
 
 ## The CompTIA A+
 
-The CompTIA A+ is a relatively straightforward certification that covers basic help desk skills. You will need to pass two exams: the 220-1101 Core 1 exam and the 220-1102 Core 2 exam. The Core 1 exam is about mobile devices, networking, hardware, cloud and virtualization, and hardware troubleshooting, while the Core 2 is about operating system, security, software troubleshooting, and operational procedures. The Core 1 has a passing score of **675** on a 100-900 scale, and the Core 2 has a passing score of **700** on a 100-900 scale. As previously mentioned, this is on a **scaled scoring algorithm,** so questions are weighted (valued) differently based on a variety of factors.
+The CompTIA A+ is a relatively straightforward certification that covers basic help desk skills. You will need to pass two exams: the 220-1101 Core 1 exam and the 220-1102 Core 2 exam. The Core 1 exam is about mobile devices, networking, hardware, cloud and virtualization, and hardware troubleshooting, while the Core 2 exam is about operating systems, security, software troubleshooting, and operational procedures. The Core 1 has a passing score of **675** on a 100-900 scale, and the Core 2 has a passing score of **700** on a 100-900 scale. As previously mentioned, this is on a **scaled scoring algorithm,** so questions are weighted (valued) differently based on a variety of factors.
 
 There are not a lot of tips I can share for the A+. It's relatively straightforward, and if you know the exam objectives, you'll pass both exams easily. Just watch out for the word salad.
 
