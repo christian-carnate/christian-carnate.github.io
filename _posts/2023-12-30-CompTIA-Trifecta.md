@@ -57,7 +57,7 @@ There are a couple of exam-specific tips I can share for the Security+.
 - Like the Network+ (and all CompTIA exams), the Security+ is vendor-neutral. Everything is surface-level, so you do not need to understand all concepts in-depth. As long as you understand all of the content in Professor Messer's videos, then you will be fine.
 - This exam is more of a grammar and memorization test rather than a "solution implementation" test. Create flashcards or create a wordwall to help you memorize definitions. However, also keep in mind that the Security+ isn't a pure definition test. You will be tasked with solving real-life scenarios and problems.
 
-## So How Do I Start Studying?
+## How Do I Start Studying?
 
 This is a common question I get asked. I always refer people to the Dax methodology, named after a community member in Professor Messer's [Discord server](https://discord.gg/dtf4uQPDZq).
 
