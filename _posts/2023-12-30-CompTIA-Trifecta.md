@@ -1,5 +1,5 @@
 ---
-title: Completing the CompTIA A+, Network+, and Security+ in 11 Months
+title: How to Pass the CompTIA A+, Network+, and Security+
 date: 2023-12-31 00:07:30 -1000
 categories: [Certifications, CompTIA]
 tags: [certifications, CompTIA]
@@ -7,7 +7,7 @@ tags: [certifications, CompTIA]
 
 Ever since I obtained my CompTIA A+, Network+, and Security+ certifications, I have been continuously hounded by my friends and classmates about how to prepare for these certifications. Hopefully, these tips and tricks will help you in your CompTIA certification journey.
 
-# General Tips and Tricks
+## General Tips and Tricks
 
 Before I discuss each exam and its content, there a few things you need to know about CompTIA exams.
 - Except for the CySA+, PenTest+, and CASP+/SecurityX, all CompTIA exams are **90 minutes long.**
@@ -23,7 +23,7 @@ To conserve time efficiently to ensure that you answer all questions correctly, 
 - Read all questions carefully. CompTIA loves to throw in word salad to confuse test takers, but they also love to use words such as **FIRST** or **NEXT.** These keywords will guide you to the correct answers.
 - You can immediately eliminate half of the answers for most questions because (1) they do not apply to the given problem or (2) they are just outright ludicrous.
 
-# Recommended Resources
+## Recommended Resources
 
 It is very important to **gather resources for the current version of the exam(s) you are taking.** As of this writing, the A+'s current exam series is the **220-1101/220-1102**, the Network+'s current version is the **N10-008**, and the Security+'s current versions are the **SY0-601** and the **SY0-701.** The SY0-601 will retire on July 31st, 2024, so if you are planning to take the SY0-601 exam, you must do so before that date.
 
@@ -33,23 +33,23 @@ Another resource I recommend is a textbook, and unlike Messer's videos, textbook
 
 Lastly, download the official [exam objectives](https://www.comptia.org/training/resources/exam-objectives) from the CompTIA website for the exam(s) you are taking or are planning to take. If you learn nothing else from this article, remember that **the exam objectives are your best friend.** If you know all of these exam objectives by heart, you *will* pass the exam(s).
 
-# The CompTIA A+
+## The CompTIA A+
 
-The CompTIA A+ is a relatively straightforward certification that covers basic help desk skills. You will need to pass two exams: the 220-1101 Core 1 exam and the 220-1102 Core 2 exam. The Core 1 exam is about mobile devices, networking, hardware, cloud and virtualization, and hardware troubleshooting, while the Core 2 is about operating system, security, software troubleshooting, and operational procedures. The Core 1 has a passing score of 675 on a 100-900 scale, and the Core 2 has a passing score of 700 on a 100-900 scale. As previously mentioned, this is on a **scaled scoring algorithm,** so questions are weighted (valued) differently based on a variety of factors.
+The CompTIA A+ is a relatively straightforward certification that covers basic help desk skills. You will need to pass two exams: the 220-1101 Core 1 exam and the 220-1102 Core 2 exam. The Core 1 exam is about mobile devices, networking, hardware, cloud and virtualization, and hardware troubleshooting, while the Core 2 is about operating system, security, software troubleshooting, and operational procedures. The Core 1 has a passing score of **675** on a 100-900 scale, and the Core 2 has a passing score of **700** on a 100-900 scale. As previously mentioned, this is on a **scaled scoring algorithm,** so questions are weighted (valued) differently based on a variety of factors.
 
 There are not a lot of tips I can share for the A+. It's relatively straightforward, and if you know the exam objectives, you'll pass both exams easily. Just watch out for the word salad.
 
-# The CompTIA Network+
+## The CompTIA Network+
 
-The CompTIA Network+ is a certification that covers networking concepts (obviously). Unlike the A+, the Network+ has only one exam: the N10-008. Pass this, and you are Network+ certified. I found the Network+ to be the hardest out of the trifecta, but I also found it to be the most enjoyable. The PBQs were fun, and funnily enough, I knew how to answer the PBQs because of knowledge I learned from networking classes (shout out to Instructor Reed!).
+The CompTIA Network+ is a certification that covers networking concepts (obviously). Unlike the A+, the Network+ has only one exam: the N10-008. Achieve a score of **720+**, and you are Network+ certified. I found the Network+ to be the hardest out of the trifecta, but I also found it to be the most enjoyable. The PBQs were fun, and funnily enough, I knew how to answer the PBQs because of knowledge I learned from networking classes (shout out to Instructor Reed!).
 
 There are a couple of tips that I can share for the Network+.
 - Don't hyperfocus on subnetting or on protocols and port numbers just because it's cool to memorize or you like numbers. There are so many other exam objectives CompTIA needs to test you on, and you may not even be tested on subnetting at all. However, it is still important to learn subnetting, especially VLSM/CIDR through the magic number or seven-second method. Each second is precious during an exam, and there is no time to be breaking octets into bits while the clock is ticking down.
 - Because the Network+ is a vendor-neutral exam, keep in mind that you are not going to configuring anything. All concepts are surface-level. Just learn what you need to learn and move on. If you want to get in-depth, then consider looking into Cisco's CCNA certification.
 
-# The CompTIA Security+
+## The CompTIA Security+
 
-The CompTIA Security+ is arguably the most famous IT certification in the world, and depending on your source, it is the most sought for IT certification in the world. The Security+ has only one exam to take. Pass it, and you are Security+ certified. If you did your research, you'll find out that there are currently two versions available: the SY0-601 and the SY0-701.
+The CompTIA Security+ is arguably the most famous IT certification in the world, and depending on your source, it is the most sought for IT certification in the world. The Security+ has only one exam to take. Achieve a score of **750+**, and you are Security+ certified. If you did your research, you'll find out that there are currently two versions available: the SY0-601 and the SY0-701.
 
 So which version do I recommend to take? My answer is either one. When you pass a CompTIA exam, you receive a certification with no version attached to it. Thus, a person who passed the SY0-401 many years ago has the same certification status as a person who passed the SY0-701, assuming the SY0-401 certification holder has been continually renewing his certification. Thus, I recommend downloading the exam objectives for both versions and comparing them to decide which version you want to take. Keep in mind that the SY0-701 is 30% smaller and has a 50% change in exam objectives when compared to the SY0-601, but that does *not* mean that the SY0-701 is easier.
 
