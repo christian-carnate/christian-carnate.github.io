@@ -35,7 +35,7 @@ As already mentioned, download the official [exam objectives](https://www.compti
 
 ## The CompTIA A+
 
-The CompTIA A+ is a relatively straightforward certification that covers basic help desk skills. You will need to pass two exams: the 220-1101 Core 1 exam and the 220-1102 Core 2 exam. The Core 1 exam is about mobile devices, networking, hardware, cloud and virtualization, and hardware troubleshooting, while the Core 2 exam is about operating systems, security, software troubleshooting, and operational procedures. The Core 1 has a passing score of **675** on a 100-900 scale, and the Core 2 has a passing score of **700** on a 100-900 scale. As previously mentioned, this is on a **scaled scoring algorithm,** so questions are weighted (valued) differently based on a variety of factors.
+The CompTIA A+ is a relatively straightforward certification that covers basic help desk skills. You will need to pass two exams: the 220-1101 Core 1 exam and the 220-1102 Core 2 exam. The Core 1 exam is about mobile devices, networking, hardware, cloud and virtualization, and hardware troubleshooting, while the Core 2 exam is about operating systems, security, software troubleshooting, and operational procedures. The Core 1 has a passing score of **675** on a 100-900 scale, and the Core 2 has a passing score of **700** on a 100-900 scale. As previously mentioned, this is on a scaled scoring algorithm, so questions are weighted (valued) differently based on a variety of factors.
 
 There is not a lot of tips I can share for the A+. It's relatively straightforward, and if you know the exam objectives, you'll pass both exams easily. Just watch out for the word salad.
 
