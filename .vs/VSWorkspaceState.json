@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\assets\\img",
+    "\\assets\\img\\favicons"
   ],
-  "SelectedNode": "\\_config.yml",
+  "SelectedNode": "\\images",
   "PreviewInSolutionExplorer": false
 }
