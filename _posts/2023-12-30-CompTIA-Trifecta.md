@@ -49,7 +49,7 @@ There are a couple of tips that I can share for the Network+.
 
 ## The CompTIA Security+
 
-The CompTIA Security+ is arguably the most famous IT certification in the world, and depending on your source, it is the most sought for IT certification in the world. The Security+ has only one exam to take. Achieve a score of **750+**, and you are Security+ certified. If you did your research, you'll find out that there are currently two versions available: the SY0-601 and the SY0-701.
+The CompTIA Security+ is arguably the most famous IT certification in the world, and depending on your source, it is the most sought after IT certification in the world. The Security+ has only one exam to take. Achieve a score of **750+**, and you are Security+ certified. If you did your research, you'll find out that there are currently two versions available: the SY0-601 and the SY0-701.
 
 So which version do I recommend to take? My answer is either one. When you pass a CompTIA exam, you receive a certification with no version attached to it. Thus, a person who passed the SY0-401 many years ago has the same certification status as a person who passed the SY0-701, assuming the SY0-401 certification holder has been continually renewing his certification. Thus, I recommend downloading the exam objectives for both versions and comparing them to decide which version you want to take. Keep in mind that the SY0-701 is 30% smaller and has a 50% change in exam objectives when compared to the SY0-601, but that does *not* mean that the SY0-701 is easier.
 
