@@ -44,7 +44,7 @@ There are not a lot of tips I can share for the A+. It's relatively straightforw
 The CompTIA Network+ is a certification that covers networking concepts (obviously). Unlike the A+, the Network+ has only one exam: the N10-008. Achieve a score of **720+**, and you are Network+ certified. I found the Network+ to be the hardest out of the trifecta, but I also found it to be the most enjoyable. The PBQs were fun, and funnily enough, I knew how to answer the PBQs because of knowledge I learned from networking classes (shout out to Instructor Reed!).
 
 There are a couple of tips that I can share for the Network+.
-- Don't hyperfocus on subnetting or on protocols and port numbers just because it's cool to memorize or you like numbers. There are so many other exam objectives CompTIA needs to test you on, and you may not even be tested on subnetting at all. However, it is still important to learn subnetting, especially VLSM/CIDR through the magic number or seven-second method. Each second is precious during an exam, and there is no time to be breaking octets into bits while the clock is ticking down.
+- Don't hyperfocus on subnetting or on protocols and port numbers just because it seems complicated at first. There are so many other exam objectives that CompTIA needs to test you on, and you may not even be tested on subnetting at all. However, it is still important to learn subnetting, especially VLSM/CIDR through the magic number or seven-second methods. Each second is precious during an exam, and there is no time to be breaking octets into bits while the clock is ticking down.
 - Because the Network+ is a vendor-neutral exam, keep in mind that you are not going to configuring anything. All concepts are surface-level. Just learn what you need to learn and move on. If you want to get in-depth, then consider looking into Cisco's CCNA certification.
 
 ## The CompTIA Security+
@@ -54,8 +54,8 @@ The CompTIA Security+ is arguably the most famous IT certification in the world,
 So which version do I recommend to take? My answer is either one. When you pass a CompTIA exam, you receive a certification with no version attached to it. Thus, a person who passed the SY0-401 many years ago has the same certification status as a person who passed the SY0-701, assuming the SY0-401 certification holder has been continually renewing his certification. Thus, I recommend downloading the exam objectives for both versions and comparing them to decide which version you want to take. Keep in mind that the SY0-701 is 30% smaller and has a 50% change in exam objectives when compared to the SY0-601, but that does *not* mean that the SY0-701 is easier.
 
 There are a couple of exam-specific tips I can share for the Security+.
-- Like the Network+ (and all CompTIA exams), the Security+ is vendor-neutral. Everything is surface-level, so you do not need to understand all concepts in-depth. As long as you understand all of the content in Professor Messer's videos, then you will be fine.
-- This exam is more of a grammar and memorization test rather than a "solution implementation" test. Create flashcards or create a wordwall to help you memorize definitions. However, also keep in mind that the Security+ isn't a pure definition test. You will be tasked with solving real-life scenarios and problems.
+- Like the Network+ (and all CompTIA exams), the Security+ is vendor-neutral. Everything is surface-level, so you do not need to understand all concepts in-depth. As long as you understand all of the content in Professor Messer's videos and know the exam objectives by heart, then you will be fine.
+- This exam is more of a grammar and memorization test rather than a "solution implementation" test. Create flashcards or create a wordwall to help you memorize definitions. However, keep in mind that the Security+ isn't a pure definition test. You will be tasked with solving real-life scenarios and problems.
 
 ## How Do I Start Studying?
 
