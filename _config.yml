@@ -1,78 +1,41 @@
-# The Site Configuration
-
-# Import the theme
 theme: jekyll-theme-chirpy
 
-# The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
-# If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
-# otherwise, the layout language will use the default value of 'en'.
 lang: en
 
-# Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
 timezone: America/Phoenix
-
-# jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
-# ↓ --------------------------
 
 title: Christian Carnate # the main title
 
 tagline: My personal blog to document my information security and cybersecurity endeavors. # it will display as the sub-title
 
-description: >- # used by seo meta and the atom feed
+description: >-
   The documentation (and some ramblings) of a cybersecurity student with too much time on his hands.
-
-# Fill in the protocol & hostname for your site.
-# e.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://christian-carnate.github.io"
 
 github:
-  username: christian-carnate # change to your github username
+  username: christian-carnate
 
 twitter:
-  username: sp3ctr4l_ # change to your twitter username
+  username: sp3ctr4l_
 
 social:
-  # Change to your full name.
-  # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Christian Carnate
-  email: ccarnate13@gmail.com # change to your email address
+  email: ccarnate13@gmail.com
   links:
-    # The first element serves as the copyright owner's link
     - https://www.linkedin.com/in/christian-carnate/
     - https://github.com/christian-carnate
 
-google_site_verification: # fill in to your verification string
-
-# ↑ --------------------------
-# The end of `jekyll-seo-tag` settings
+google_site_verification:
 
 google_analytics:
-  id: # fill in your Google Analytics ID
+  id:
 
-# Prefer color scheme setting.
-#
-# Note: Keep empty will follow the system prefer color by default,
-# and there will be a toggle to switch the theme between dark and light
-# on the bottom left of the sidebar.
-#
-# Available options:
-#
-#     light  - Use the light color scheme
-#     dark   - Use the dark color scheme
-#
-theme_mode: # [light|dark]
+theme_mode: dark
 
-# The CDN endpoint for images.
-# Notice that once it is assigned, the CDN url
-# will be added to all image (site avatar & posts' images) paths starting with '/'
-#
-# e.g. 'https://cdn.com'
 img_cdn:
 
-# the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://github.com/christian-carnate/christian-carnate.github.io/blob/main/images/pfp.jpg
 
-# boolean type, the global switch for TOC in posts.
 toc: true
 
 comments:
@@ -109,7 +72,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: ""
+baseurl: "https://christiancarnate.com"
 
 # ------------ The following options are not recommended to be modified ------------------
 
