@@ -6,7 +6,7 @@ timezone: America/Phoenix
 
 title: Christian Carnate # the main title
 
-tagline: My personal blog to document my information security and cybersecurity endeavors. # it will display as the sub-title
+tagline: My personal blog to document my information security and cybersecurity endeavors # it will display as the sub-title
 
 description: >-
   The documentation (and some ramblings) of a cybersecurity student with too much time on his hands.
