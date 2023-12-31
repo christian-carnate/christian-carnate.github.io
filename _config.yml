@@ -4,12 +4,12 @@ lang: en
 
 timezone: America/Phoenix
 
-title: Christian Carnate # the main title
+title: Christian Carnate
 
-tagline: My personal blog to document my information security and cybersecurity endeavors # it will display as the sub-title
+tagline: My personal blog to document my information security endeavors
 
 description: >-
-  The documentation (and some ramblings) of a cybersecurity student with too much time on his hands.
+  The documentation (and some ramblings) of an information security student with too much time on his hands.
 url: "https://christian-carnate.github.io"
 
 github:
@@ -34,7 +34,7 @@ theme_mode: dark
 
 img_cdn:
 
-avatar: https://github.com/christian-carnate/christian-carnate.github.io/blob/main/images/pfp.jpg
+avatar: images/pfp.jpg
 
 toc: true
 
