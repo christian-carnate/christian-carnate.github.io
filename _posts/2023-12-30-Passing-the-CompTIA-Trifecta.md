@@ -1,6 +1,6 @@
 ---
 title: How to Pass the CompTIA A+, Network+, and Security+
-date: 2023-12-31 1:32:30 -1000
+date: 2023-12-30 00:32:30 -1000
 categories: [Certifications, CompTIA]
 tags: [certifications, CompTIA]
 ---
@@ -47,7 +47,7 @@ The CompTIA Network+ is a certification that covers networking concepts (obvious
 
 There are a couple of tips that I can share for the Network+.
 - Don't hyperfocus on subnetting or on protocols and port numbers just because it seems complicated at first. There are so many other exam objectives that CompTIA needs to test you on, and you may not even be tested on subnetting at all. However, it is still important to learn subnetting, especially VLSM/CIDR through the magic number or seven-second methods. Each second is precious during an exam, and there is no time to be breaking octets into bits while the clock is ticking down.
-- Because the Network+ is a vendor-neutral exam, keep in mind that you are not going to configuring anything. All concepts are surface-level. Just learn what you need to learn and move on. If you want to get in-depth, then consider looking into Cisco's CCNA certification.
+- Because the Network+ is a vendor-neutral exam, keep in mind that you are not going to be typing vendor-specific commands or configuring vendor-specific devices (*e.g.*, Cisco, Juniper, Extreme Networks, Ubiquiti, etc.). All concepts are surface-level. Just learn what you need to learn and move on. If you want to get in-depth, then consider looking into Cisco's CCNA certification.
 - The PBQs are a lot of "guess and check" work. If you know the content, then you can solve them in around 20-30 minutes of your time.
 
 ## The CompTIA Security+
@@ -58,7 +58,7 @@ So which version do I recommend to take? My answer is either one. When you pass 
 
 There are a couple of exam-specific tips I can share for the Security+.
 - Like the Network+ (and all CompTIA exams), the Security+ is vendor-neutral. Everything is surface-level, so you do not need to understand all concepts in-depth. As long as you understand all of the content in Professor Messer's videos and know the exam objectives by heart, then you will be fine.
-- This exam is more of a grammar and memorization test rather than a "solution implementation" test. Create flashcards or create a wordwall to help you memorize definitions. However, keep in mind that the Security+ isn't a pure definition test. You will be tasked with solving real-life scenarios and problems.
+- This exam is more of a grammar and memorization test rather than a "solution implementation" test. Create flashcards or create a wordwall to help you memorize definitions. However, keep in mind that the Security+ isn't a pure definition test. You will be tasked with solving real-life scenarios and problems. Pick out the key words and phrases that a question contains and make a determination.
 - The PBQs require a lot of critical thinking and logical analysis. Read the question carefully, examine all parts of the PBQ, and make a determination based on the details you found.
 
 ## How Do I Start Studying?
