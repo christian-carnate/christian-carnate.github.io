@@ -2,8 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\assets\\img",
-    "\\assets\\img\\favicons"
+    "\\assets\\img\\favicons",
+    "\\_data",
+    "\\_posts",
+    "\\_tabs"
   ],
-  "SelectedNode": "\\images",
+  "SelectedNode": "\\_tabs\\tags.md",
   "PreviewInSolutionExplorer": false
 }

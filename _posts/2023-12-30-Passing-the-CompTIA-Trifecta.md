@@ -1,8 +1,9 @@
 ---
 title: How to Pass the CompTIA A+, Network+, and Security+
-date: 2023-12-31 00:07:30 -1000
+date: 2023-12-31 1:32:30 -1000
 categories: [Certifications, CompTIA]
 tags: [certifications, CompTIA]
+image: /images/CompTIA/comptia_trifecta.jpg
 ---
 
 Ever since I obtained my CompTIA A+, Network+, and Security+ certifications, I have been continuously hounded by my friends and classmates about how to prepare for these certifications. Hopefully, these tips and tricks will help you in your CompTIA certification journey.
@@ -27,6 +28,8 @@ To conserve time efficiently to ensure that you answer all questions correctly, 
 
 It is very important to **gather resources for the current version of the exam(s) you are taking.** As of this writing, the A+'s current exam series is the **220-1101/220-1102**, the Network+'s current version is the **N10-008**, and the Security+'s current versions are the **SY0-601** and the **SY0-701.** The SY0-601 will retire on July 31st, 2024, so if you are planning to take the SY0-601 exam, you must do so before that date.
 
+The only materials I do **not** recommend are CompTIA's CertMaster resources, except for CertMaster Labs. The entire CertMaster suite is **not** indicative of the actual exam experience, and I have heard many stories in which people who used CertMaster resources as exam preparation tools failed their exam(s). Again, CertMaster Labs is an exception because they are actually decent, but there are many other lab simulation tools you can use (*e.g.*, TestOut, Total Seminars, etc.) if you want to learn practical application of the material.
+
 The only video course I recommend definitively is Professor Messer's [A+](https://youtube.com/playlist?list=PLG49S3nxzAnnOmvg5UGVenB_qQgsh01uC&si=_KbA3BNo91poY-Hn), [Network+](https://youtube.com/playlist?list=PLG49S3nxzAnlCJiCrOYuRYb6cne864a7G&si=wqJ_jo9DL4wuNoE9), and [Security+ SY0-601](https://youtube.com/playlist?list=PLG49S3nxzAnkL2ulFS3132mOVKuzzBxA8&si=waGR8RNg8rf5qSwX) or [Security+ SY0-701](https://www.youtube.com/watch?v=KiEptGbnEBc&list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv) video playlists. Messer's videos follow the exam objectives directly and cover only content that is covered by the exam, unlike other instructors. Similarly, the only practice exams I recommend definitively is Professor Messer's [A+ 220-1101/1102](https://www.professormesser.com/220-1101-success-bundle/) and [Security+ SY0-601](https://www.professormesser.com/sy0-601-success-bundle/) practice exams. He unfortunately does not have any Network+ practice exams, and he is planning to release his SY0-701 practice exams in the upcoming months.
 
 Another resource I recommend is a textbook, and unlike Messer's videos, textbooks are created by individual authors, who may organize content differently and may cover content that may not even be on the exam. Thus, make sure to always cross-reference with the official [exam objectives](https://www.comptia.org/training/resources/exam-objectives) to ensure that you are learning the correct material. The only textbook series I used during my studies is Wiley's Sybex brand, which is available on [Amazon](https://www.amazon.com/s?k=sybex&crid=2S0VWVEDZA7SD&sprefix=sybex%2Caps%2C229&ref=nb_sb_noss_1). The Sybex textbooks are decent and cover a bit of unnecessary content, but there is still good enough information that can supplement your learning. Sybex also provides practice exam textbooks that can be used as replacements for Messer's practice exams, especially for the Network+ and Security+ SY0-701.
@@ -46,6 +49,7 @@ The CompTIA Network+ is a certification that covers networking concepts (obvious
 There are a couple of tips that I can share for the Network+.
 - Don't hyperfocus on subnetting or on protocols and port numbers just because it seems complicated at first. There are so many other exam objectives that CompTIA needs to test you on, and you may not even be tested on subnetting at all. However, it is still important to learn subnetting, especially VLSM/CIDR through the magic number or seven-second methods. Each second is precious during an exam, and there is no time to be breaking octets into bits while the clock is ticking down.
 - Because the Network+ is a vendor-neutral exam, keep in mind that you are not going to configuring anything. All concepts are surface-level. Just learn what you need to learn and move on. If you want to get in-depth, then consider looking into Cisco's CCNA certification.
+- The PBQs are a lot of "guess and check" work. If you know the content, then you can solve them in around 20-30 minutes of your time.
 
 ## The CompTIA Security+
 
@@ -56,12 +60,13 @@ So which version do I recommend to take? My answer is either one. When you pass 
 There are a couple of exam-specific tips I can share for the Security+.
 - Like the Network+ (and all CompTIA exams), the Security+ is vendor-neutral. Everything is surface-level, so you do not need to understand all concepts in-depth. As long as you understand all of the content in Professor Messer's videos and know the exam objectives by heart, then you will be fine.
 - This exam is more of a grammar and memorization test rather than a "solution implementation" test. Create flashcards or create a wordwall to help you memorize definitions. However, keep in mind that the Security+ isn't a pure definition test. You will be tasked with solving real-life scenarios and problems.
+- The PBQs require a lot of critical thinking and logical analysis. Read the question carefully, examine all parts of the PBQ, and make a determination based on the details you found.
 
 ## How Do I Start Studying?
 
-This is a common question I get asked. I always refer people to the Dax methodology, named after a community member in Professor Messer's [Discord server](https://discord.gg/dtf4uQPDZq).
+This is a common question I get asked. I always refer people to the Dax Methodology, named after a community member in Professor Messer's [Discord server](https://discord.gg/dtf4uQPDZq).
 
-Here is the Dax methodology in full.
+Here is the Dax Methodology in full.
 > Watch all videos in Professor Messer‘s A+/Network+/Security+ playlist in order. Take notes while watching/listening to the lessons. Don’t try to write down everything verbatim, but rather focus on more concise/direct pieces of information. I highly recommend purchasing Professor Messer‘s official course notes. This will help you to follow along with the lessons without worrying about continuously pausing/resuming to write notes. It is still a good idea to add your own information where applicable.
 >
 > A nice technique to help reinforce comprehension is to review the relevant concepts. This can be done at the end of each subsection, or at the end of a domain. I recommend the “rubber duck” method. This is where you verbally talk through/explain each item listed on the CompTIA exam objectives. In a nutshell, we sometimes trick ourselves into overestimating our knowledge/understanding. For example, looking at a term and thinking to oneself, yes, I know this. The rubber duck method forces you to “prove” that you actually know what you think you know. You may find that when you attempt to explain something out loud, your true understanding might be a little lacking. Using the rubber duck method, if there are any terms, concepts, etc. that you cannot easily identify/explain, then add this information to your study guide. This will help you to create a summary of the areas in which you may have gaps in knowledge. Reviewing your study guide will help to fill in these gaps.
@@ -72,4 +77,4 @@ Here is the Dax methodology in full.
 
 ## Conclusion
 
-I hope this article will assist you in your CompTIA certification journey. If I have any more tips, then I will update this article.
+I hope this article will assist you in your CompTIA certification journey. I will continually update this article as the Security+ SY0-601 is phased out in July 2024 and new A+ and Network+ exams come out in late 2024 and early 2025. If you have any questions, then feel free to contact me through Discord or connect with me via LinkedIn to message me. I will happily answer questions that are compliant with the CompTIA Candidate Agreement.
