@@ -97,7 +97,7 @@ The score report will tell you which exam objectives you missed on your exam. If
 _An example of missed exam objectives for the Security+ SY0-601 exam._
 
 ![Location of score report.](/images/CompTIA/score_report_location.png)
-_Click on *View score reports* in the CompTIA PearsonVUE Dashboard to find your score report._
+_Click on View score reports in the CompTIA PearsonVUE Dashboard to find your score report._
 
 ## Will I receive anything after I pass my exam?
 
@@ -106,10 +106,10 @@ Yes, once your score is reflected on your CompTIA account, you will receive a co
 You will also receive a digital certificate and a .zip file containing CompTIA logos that you can download. To download these files, you will have to log into your [CompTIA certification portal](https://login.comptia.org) and click *Go to My Certifications* to access your CompTIA CertMetrics Dashboard.
 
 ![Location of the CompTIA CertMetrics Dashboard.](/images/CompTIA/CompTIA_CertMetrics_button.png)
-_Click on *Go to My Certifications* to access your CompTIA CertMetrics Dashboard.
+_Click on Go to My Certifications to access your CompTIA CertMetrics Dashboard._
 
 ![Location of CompTIA certificate downloads.](/images/CompTIA/CompTIA_certificate_downloads.png)
-_Go to the *Certifications* tab to download your digital certificate and CompTIA logos._
+_Go to the Certifications tab to download your digital certificate and CompTIA logos._
 
 ## Do CompTIA certifications expire?
 

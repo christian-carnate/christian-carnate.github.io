@@ -3,7 +3,6 @@ title: How to Pass the CompTIA A+, Network+, and Security+
 date: 2023-12-31 1:32:30 -1000
 categories: [Certifications, CompTIA]
 tags: [certifications, CompTIA]
-image: /images/CompTIA/comptia_trifecta.jpg
 ---
 
 Ever since I obtained my CompTIA A+, Network+, and Security+ certifications, I have been continuously hounded by my friends and classmates about how to prepare for these certifications. Hopefully, these tips and tricks will help you in your CompTIA certification journey.
