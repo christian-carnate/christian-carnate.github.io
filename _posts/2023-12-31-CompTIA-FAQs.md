@@ -108,7 +108,7 @@ You will also receive a digital certificate and a .zip file containing CompTIA l
 ![CompTIA email.](/images/CompTIA/CompTIA_email.png)
 _A congratulatory email from CompTIA for passing the CompTIA Security+ exam._
 
-![Credly digital badge.](/images/CompTIA_digital_badge.png)
+![Credly digital badge.](/images/CompTIA/CompTIA_digital_badge.png)
 _A digital badge on Credly for passing the CompTIA Security+ exam._
 
 ![Location of the CompTIA CertMetrics Dashboard.](/images/CompTIA/CompTIA_CertMetrics_button.png)
