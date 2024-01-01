@@ -63,7 +63,7 @@ Professor Messer has a [step-by-step guide](https://www.professormesser.com/step
 
 I highly recommend that you take your exam **in-person** at a PearsonVUE testing center. Online exams have stricter requirements to ensure that you are not cheating, and there may be technical issues during your exam as well (*e.g.*, no or intermittent Internet connectivity).
 
-Here are some stories (from r/CompTIA) that I have heard about the online exam experience:
+Here are some stories (from [r/CompTIA](https://www.reddit.com/r/CompTIA/) and Professor Messer's [Discord server](https://discord.gg/dtf4uQPDZq)) that I have heard about the online exam experience:
 - A person's test was cancelled because he moved his eyes off-screen too many times.
 - A person's test was cancelled because he moved out of his camera frame too many times.
 - A person's test was cancelled because he sneezed too many times.
