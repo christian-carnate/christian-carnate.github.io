@@ -105,6 +105,12 @@ Yes, once your score is reflected on your CompTIA account, you will receive a co
 
 You will also receive a digital certificate and a .zip file containing CompTIA logos that you can download. To download these files, you will have to log into your [CompTIA certification portal](https://login.comptia.org) and click *Go to My Certifications* to access your CompTIA CertMetrics Dashboard.
 
+![CompTIA email.](/images/CompTIA/CompTIA_email.png)
+_A congratulatory email from CompTIA for passing the CompTIA Security+ exam._
+
+![Credly digital badge.](/images/CompTIA_digital_badge.png)
+_A digital badge on Credly for passing the CompTIA Security+ exam._
+
 ![Location of the CompTIA CertMetrics Dashboard.](/images/CompTIA/CompTIA_CertMetrics_button.png)
 _Click on Go to My Certifications to access your CompTIA CertMetrics Dashboard._
 
