@@ -11,7 +11,7 @@ CompTIA certifications, especially the A+, Network+, and Security+, are usually 
 
 It depends on your circumstances. If you are completely new to IT and know absolutely nothing, then I highly recommend starting with the A+, regardless of what anyone else says. The A+ covers basic help desk skills, and it can be used to get your foot into the IT door.
 
-If you have an idea of your career path in IT (*e.g.*, cybersecurity) or if you already have some IT work experience,, then I highly recommend starting with the Network+. Networking is prevalent everywhere in IT, and having strong networking foundations will only benefit your career even further. Again, this is only a suggestion, and many people have obtained the Security+ as their very first IT certification.
+If you have an idea of your career path in IT (*e.g.*, cybersecurity) or if you already have some IT work experience, then I highly recommend starting with the Network+. Networking is prevalent everywhere in IT, and having strong networking foundations will only benefit your career even further. Again, this is only a suggestion, and many people have obtained the Security+ as their very first IT certification.
 
 ## How is a CompTIA exam formatted? How is a CompTIA exam scored? Is there a minimum passing percentage?
 
