@@ -51,9 +51,11 @@ According to [CompTIA](https://www.comptia.org/testing/testing-options/about-com
 
 An exam voucher is essentially a code you redeem to schedule your exam. You need one to negate the cost that Pearson tries to charge you while scheduling an exam.
 
-If you are a college student based in the United States, its territories, and Canada, then you can purchase a voucher from the [CompTIA Academic Store](https://academic-store.comptia.org/). If you are a college student based in the United Kingdom, then you can purchase a voucher from the [CompTIA UK Academic Store](https://uk-academic-store.comptia.org/).
+If you are a college student based in the United States, its territories, and Canada, then you can purchase a voucher from the [CompTIA Academic Store](https://academic-store.comptia.org/). If you are a college student based in the United Kingdom, then you can purchase a voucher from the [CompTIA UK Academic Store](https://uk-academic-store.comptia.org/). Either way, you will have to create an account to purchase a voucher.
 
-If you are not a college student based in the US, its territories, Canada, or the UK, then you can purchase a voucher from [Dion Training Solutions](https://www.diontraining.com/vouchers) for a discount.
+If you are not a college student based in the US, its territories, Canada, or the UK, then you can purchase a voucher from [Dion Training Solutions](https://www.diontraining.com/vouchers) for a discount. You do not have to create an account unless you want to purchase Jason Dion's training course and lab materials.
+
+If you are purchasing a voucher from the CompTIA Academic Store, **keep in mind that your CompTIA Academic Store account is different from your CompTIA certification account**, which is used to schedule your exam and check your certification status(es) via the [CompTIA Certification Portal](https://login.comptia.org).
 
 ## How do I schedule my exam?
 
@@ -93,11 +95,11 @@ _An example of a score report for the Security+ SY0-601 exam._
 
 ## I passed my exam! When do I receive my certificate?
 
-According to the score report that you receive after you pass your exam, you will need to wait up to **5 business days** for your score to be reflected to your CompTIA account. Usually, however, your score is imported during business hours or the next business day in a relatively quick fashion.
+According to the score report that you receive after you pass your exam, you will need to wait up to **5 business days** for your score to be associated with your CompTIA account. Usually, however, your score is imported during business hours or the next business day in a relatively quick fashion.
 
 ## I failed my exam. What do I need to review?
 
-The score report will tell you which exam objectives you missed on your exam. If you took the exam in-person, then your score report should have been printed and given to you. If you took the exam online, then you can find your score report by logging into your CompTIA PearsonVUE dashboard, going to the home page, and clicking *View score reports.*
+The score report will tell you which exam objectives you missed questions in on your exam. If you took the exam in-person, then your score report should have been printed and given to you. If you took the exam online, then you can find your score report by logging into your CompTIA PearsonVUE Dashboard, going to the home page, and clicking *View score reports.*
 
 ![Missed exam objectives.](/images/CompTIA/missed_exam_objectives.png)
 _An example of missed exam objectives for the Security+ SY0-601 exam._
@@ -107,9 +109,9 @@ _Click on View score reports in the CompTIA PearsonVUE Dashboard to find your sc
 
 ## Will I receive anything after I pass my exam?
 
-Yes, once your score is reflected on your CompTIA account, you will receive a congratulatory email from CompTIA, and you will also receive an email from Credly stating that a digital badge has been awarded to you. Additionally, you receive a free physical certificate kit that is shipped to an address of your choice. All you need to do is to confirm your address at the [CompTIA certification portal](https://login.comptia.org).
+Yes, once your score is associated with your CompTIA account, you will receive a congratulatory email from CompTIA, and you will also receive an email from Credly stating that a digital badge has been awarded to you. Additionally, you will receive a free physical certificate kit that is shipped to an address of your choice. All you need to do is to confirm your address via the [CompTIA Certification Portal](https://login.comptia.org).
 
-You will also receive a digital certificate and a .zip file containing CompTIA logos that you can download. To download these files, you will have to log into your [CompTIA certification portal](https://login.comptia.org) and click *Go to My Certifications* to access your CompTIA CertMetrics Dashboard.
+You will also receive a digital certificate and a .zip file containing CompTIA logos that you can download. To download these files, you will have to log into your [CompTIA Certification Portal](https://login.comptia.org) and click *Go to My Certifications* to access your CompTIA CertMetrics Dashboard.
 
 ![CompTIA email.](/images/CompTIA/CompTIA_email.png)
 _A congratulatory email from CompTIA for passing the CompTIA Security+ exam._
