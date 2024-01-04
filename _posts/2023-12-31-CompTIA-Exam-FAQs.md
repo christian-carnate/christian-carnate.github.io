@@ -109,9 +109,7 @@ _Click on View score reports in the CompTIA PearsonVUE Dashboard to find your sc
 
 ## Will I receive anything after I pass my exam?
 
-Yes, once your score is associated with your CompTIA certification account, you will receive a congratulatory email from CompTIA, and you will also receive an email from Credly stating that a digital badge has been awarded to you. Additionally, you will receive a free physical certificate kit that is shipped to an address of your choice. All you need to do is to confirm your address via the [CompTIA Certification Portal](https://login.comptia.org).
-
-You will also receive a digital certificate and a .zip file containing CompTIA logos that you can download. To download these files, you will have to log into your [CompTIA Certification Portal](https://login.comptia.org) and click *Go to My Certifications* to access your CompTIA CertMetrics Dashboard.
+Yes, once your score is associated with your CompTIA certification account, you will receive a congratulatory email from CompTIA, and you will also receive an email from Credly stating that a digital badge has been awarded to you. Additionally, you will receive a free physical certificate kit that is shipped to an address of your choice. All you need to do is to confirm your address via the [CompTIA Certification Portal](https://login.comptia.org). Lastly, you will receive a digital (.pdf) certificate and a .zip file containing CompTIA logos that you can download. To download these files, you will have to log into your [CompTIA Certification Portal](https://login.comptia.org) and click *Go to My Certifications* to access your CompTIA CertMetrics Dashboard.
 
 ![CompTIA email.](/images/CompTIA/CompTIA_email.png)
 _A congratulatory email from CompTIA for passing the CompTIA Security+ exam._
