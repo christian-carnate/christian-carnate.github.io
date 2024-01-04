@@ -124,7 +124,7 @@ _Click on Go to My Certifications to access your CompTIA CertMetrics Dashboard._
 _Go to the Certifications tab to download your digital certificate and CompTIA logos._
 
 ![Security+ certificate.](/images/CompTIA/CompTIA_Security_digital_certificate.png)
-_A digital (.pdf) certificate for passing the CompTIA Security+ exam. You will receive a physical version in your physical certificate kit once you confirm your address._
+_A digital (.pdf) certificate for passing the CompTIA Security+ exam. You will receive a physical version in your physical certificate kit._
 
 ## Do CompTIA certifications expire?
 
