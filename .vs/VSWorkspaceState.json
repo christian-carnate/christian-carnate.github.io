@@ -1,12 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets\\img",
-    "\\assets\\img\\favicons",
-    "\\_data",
+    "\\images",
+    "\\images\\CompTIA",
     "\\_posts",
     "\\_tabs"
   ],
-  "SelectedNode": "\\_tabs\\tags.md",
+  "SelectedNode": "\\_config.yml",
   "PreviewInSolutionExplorer": false
 }

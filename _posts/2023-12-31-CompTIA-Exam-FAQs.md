@@ -7,15 +7,15 @@ tags: [certifications, CompTIA]
 
 CompTIA certifications, especially the A+, Network+, and Security+, are usually an IT newcomer's first foray into the world of IT certifications. However, there are many aspects to them that confuse IT newcomers. This article conglomerates all of my answers to frequently asked questions (FAQs) about CompTIA exams so I can easily refer someone to this resource.
 
-## What certification should I start with?
+## Which certification should I start with?
 
 It depends on your circumstances. If you are completely new to IT and know absolutely nothing, then I highly recommend starting with the A+, regardless of what anyone else says. The A+ covers basic help desk skills, and it can be used to get your foot into the IT door.
 
-If you have an idea of your career path in IT, then I highly recommend starting with the Network+. Networking is prevalent everywhere in IT, and having strong networking foundations will only benefit your career even further. Again, this is only a suggestion, and many people have obtained the Security+ as their very first IT certification.
+If you have an idea of your career path in IT (*e.g.*, cybersecurity) or if you already have some IT work experience,, then I highly recommend starting with the Network+. Networking is prevalent everywhere in IT, and having strong networking foundations will only benefit your career even further. Again, this is only a suggestion, and many people have obtained the Security+ as their very first IT certification.
 
-## How is the A+/Network+/Security+ exam formatted?
+## How is a CompTIA exam formatted? How is a CompTIA exam scored? Is there a minimum passing percentage?
 
-All CompTIA exams, with a few exceptions such as the ITF+, Cloud Essentials+, and CASP+, follow the same format:
+All CompTIA exams, with a few exceptions such as the ITF+, Cloud Essentials+, and CASP+, follow the same format.
 - Each exam is **90 minutes long,** nothing more, nothing less.
 - Each exam has a **minimum** of **90 questions.** This means that you may receive *up to* 90 questions, but almost no one ever receives that many questions.
 - Each exam has a **linear format.** Unlike adaptive exams (*e.g.*, Cisco exams), the questions you receive at the start of the exam are the same questions throughout the exam.
@@ -31,29 +31,29 @@ All CompTIA exams, with a few exceptions such as the ITF+, Cloud Essentials+, an
 
 ## How do I study for the A+/Network+/Security+?
 
-I have a blog [article](https://christiancarnate.com/posts/Passing-the-CompTIA-Trifecta/) about passing the CompTIA A+, Network+, and Security+ exams.
+I wrote a blog [article](https://christiancarnate.com/posts/Passing-the-CompTIA-Trifecta/) about passing the CompTIA A+, Network+, and Security+ exams.
 
 ## What materials do you recommend for the A+/Network+/Security?
 
-I have a blog [article](https://christiancarnate.com/posts/Passing-the-CompTIA-Trifecta/) about the materials I used to pass the exams.
+I wrote a blog [article](https://christiancarnate.com/posts/Passing-the-CompTIA-Trifecta/) about the materials I used to pass the CompTIA A+, Network+, and Security+ exams.
 
 ## A new version of the exam that I want to pursue released. Should I take the current one or the new one?
 
 My recommendation is to continue studying with whichever version you are currently studying. When you pass a CompTIA exam, you obtain a certification that has no version attached to it. This means that a Security+ SY0-401 certification holder has the same certification as a Security+ SY0-701 certification holder, assuming the SY0-401 certification holder has been continually renewing his certification.
 
-If you have not started studying for a particular version, then download and review the official [exam objectives](https://www.comptia.org/training/resources/exam-objectives) for both exams. Take a look at the content covered by both exams and make a decision.
+If you have not started studying for a particular version, then download and compare the official [exam objectives](https://www.comptia.org/training/resources/exam-objectives) for both exams. Take a look at the content covered by both exams and make a decision.
 
 ## Do you receive partial credit for PBQs?
 
-According to the CompTIA [PBQ webpage](https://www.comptia.org/testing/testing-options/about-comptia-performance-exams/performance-based-questions-explained), you *may* receive partial credit for *some* PBQs. This means that CompTIA does offer partial credit in some capacity, but the public is unable to know which PBQs give partial credit or how CompTIA distributes partial credit. Thus, the best strategy is to answer every part of the PBQ portion of your exam, even if it is a complete guess.
+According to [CompTIA](https://www.comptia.org/testing/testing-options/about-comptia-performance-exams/performance-based-questions-explained), you *may* receive partial credit for *some* PBQs. This means that CompTIA does offer partial credit in some capacity, but we are unable to know which PBQs give partial credit or how CompTIA distributes partial credit. Thus, the best strategy is to fill in everything, even if it is a complete guess.
 
 ## What is an exam voucher? Where do I purchase one?
 
-An exam voucher is essentially a code you redeem to schedule your exam. You need one to negate the cost that Pearson tries to charge you during scheduling.
+An exam voucher is essentially a code you redeem to schedule your exam. You need one to negate the cost that Pearson tries to charge you while scheduling an exam.
 
 If you are a college student based in the United States, its territories, and Canada, then you can purchase a voucher from the [CompTIA Academic Store](https://academic-store.comptia.org/). If you are a college student based in the United Kingdom, then you can purchase a voucher from the [CompTIA UK Academic Store](https://uk-academic-store.comptia.org/).
 
-If you are not a college student based in the U.S., its territories, Canada, or the UK, then you can purchase a voucher from [Dion Training Solutions](https://www.diontraining.com/vouchers) for a discount.
+If you are not a college student based in the US, its territories, Canada, or the UK, then you can purchase a voucher from [Dion Training Solutions](https://www.diontraining.com/vouchers) for a discount.
 
 ## How do I schedule my exam?
 
@@ -61,33 +61,39 @@ Professor Messer has a [step-by-step guide](https://www.professormesser.com/step
 
 ## Should I take my exam online or in-person?
 
-I highly recommend that you take your exam **in-person** at a PearsonVUE testing center. Online exams have stricter requirements to ensure that you are not cheating, and there may be technical issues during your exam as well (*e.g.*, no or intermittent Internet connectivity).
+I highly recommend that you take your exam **in-person** at a PearsonVUE testing center. Online exams have stricter requirements to ensure that you are not cheating, and, in addition, there may be technical issues during your exam as well (*e.g.*, intermittent Internet connectivity).
 
-Here are some stories (from [r/CompTIA](https://www.reddit.com/r/CompTIA/) and Professor Messer's [Discord server](https://discord.gg/dtf4uQPDZq)) that I have heard about the online exam experience:
+Here are some stories from [r/CompTIA](https://www.reddit.com/r/CompTIA/) and Professor Messer's [Discord server](https://discord.gg/dtf4uQPDZq) that I have read about the online exam experience.
 - A person's test was cancelled because he moved his eyes off-screen too many times.
-- A person's test was cancelled because he moved out of his camera frame too many times.
+- A person's test was cancelled because he moved out of the webcam frame too many times.
 - A person's test was cancelled because he sneezed too many times.
-- A person's test was cancelled because the proctor heard too much noise, whether inside or outside.
+- A person's test was cancelled because the proctor heard too much noise.
 - A person's test was cancelled because someone walked in the room.
 
-To save yourself the hassle, just take the exam in-person unless you need to absolutely take the exam online (*e.g.*, the closest testing center is too far away).
+To save yourself the hassle, just take the exam in-person unless you are forced to take the exam online (*e.g.*, the closest testing center is too far away).
+
+## When may I schedule an exam?
+
+Exam appointment availability depends on your method of examination. If you are taking your exam in-person, then you can schedule your exam appointment only during select times when the testing center is open or available for testing. If you are taking your exam online, then you can schedule your exam at any time.
 
 ## What is the check-in process like? What are the ID requirements?
 
-Admittedly, I am not knowledgeable about the online check-in process. To learn more about the online check-in process, review PearsonVUE's [webpage](https://home.pearsonvue.com/Test-takers/OnVUE-online-proctoring.aspx) about the online check-in process.
+Admittedly, I am not knowledgeable about the online OnVUE check-in process. To learn more about the online OnVUE check-in process, review PearsonVUE's [webpage](https://home.pearsonvue.com/Test-takers/OnVUE-online-proctoring.aspx) about the online OnVUE check-in process.
 
-Regardless of your method of examination, you will need a *primary ID* and a *secondary ID.* You can review the list of accepted IDs [here](https://www.comptia.org/testing/testing-policies-procedures/test-policies/candidate-id-policy). The only IDs I bring to the testing center is my driver's license and a credit card that has my signature on the back.
+The in-person PearsonVUE check-in process is relatively simple. You arrive early at the testing center 10-15 minutes before your scheduled start time, and the proctor will greet you and walk you through the check-in process. The check-in process involves checking your IDs, signing forms, taking a picture, reviewing the exam rules and code of conduct, and locking up your personal belongings.
+
+Regardless of your method of examination, you will need a *primary ID* and a *secondary ID.* You can review the list of accepted IDs [here](https://www.comptia.org/testing/testing-policies-procedures/test-policies/candidate-id-policy). The only IDs I bring to the testing center are my driver's license and a signed credit/debit card.
 
 ## Will I know which questions I missed on the exam?
 
 **No, and you will never know which questions you missed.** You will instead receive a score report that will show which exam objectives you missed. This is to prevent cheating.
 
 ![A sample score report.](/images/CompTIA/sample_score_report.png)
-_An example of a score report._
+_An example of a score report for the Security+ SY0-601 exam._
 
 ## I passed my exam! When do I receive my certificate?
 
-According to the score report you receive after you pass your exam, you will need to wait up to **5 business days** for your score to be reflected to your CompTIA account.
+According to the score report that you receive after you pass your exam, you will need to wait up to **5 business days** for your score to be reflected to your CompTIA account. Usually, however, your score is imported during business hours or the next business day in a relatively quick fashion.
 
 ## I failed my exam. What do I need to review?
 
@@ -117,9 +123,12 @@ _Click on Go to My Certifications to access your CompTIA CertMetrics Dashboard._
 ![Location of CompTIA certificate downloads.](/images/CompTIA/CompTIA_certificate_downloads.png)
 _Go to the Certifications tab to download your digital certificate and CompTIA logos._
 
+![Security+ certificate.](/images/CompTIA/CompTIA_Security_digital_certificate.png)
+_A digital (.pdf) certificate for passing the CompTIA Security+ exam. You will receive a physical version in your physical certificate kit once you confirm your address.
+
 ## Do CompTIA certifications expire?
 
-Yes, all CompTIA certifications expire exactly 3 years after the date you passed the exam, with the exception of the ITF+, Cloud Essentials+, and Project+.
+Yes, all CompTIA certifications, with the exception of the ITF+, Cloud Essentials+, and Project+, expire exactly 3 years after the date you passed the exam.
 
 ## How do I renew my CompTIA certification(s)?
 
@@ -130,3 +139,7 @@ Review the ways to renew your CompTIA certifications [here.](https://www.comptia
 No offense, but a lot of the questions that people have about CompTIA exams can be easily found on Google. Do your due research first before asking a forum a question that has been asked repeatedly.
 
 If you have exam-specific questions, then the best bet is either [r/CompTIA](https://www.reddit.com/r/CompTIA/) or Professor Messer's [Discord server](https://discord.gg/dtf4uQPDZq). I am very active in Messer's Discord server, so if you want a quick response, then Messer's Discord server is your best choice to ask questions.
+
+## Changelog
+
+- **01/03/2024:** Added a changelog, added another question and image, and fixed formatting, spelling, and grammar mistakes.
