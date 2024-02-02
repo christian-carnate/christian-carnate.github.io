@@ -90,4 +90,4 @@ The rest of the VMs have their operating systems installed. My plan in the futur
 ## Changelog
 
 - **02/01/2024:** Added a changelog.
-- **02/02/2024:** Fixed grammer and spelling mistakes.
+- **02/02/2024:** Fixed grammar and spelling mistakes.
